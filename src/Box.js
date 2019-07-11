@@ -12,7 +12,6 @@ class Box extends Component {
         </div>
         <button>X</button>
       </div>
-      
     )
   }
 }
